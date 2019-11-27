@@ -1,4 +1,4 @@
-# calculatornew
+# Calculator
 
 Calculator made using Flutter. Feel free to download and learn! Also star the repo in case you like the project.
 
